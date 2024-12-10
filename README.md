@@ -21,7 +21,12 @@ In this guide I will show you how to deploy a web  application using AWS cloud s
 Once the instances is running, click on connect aws CLI and run the command
 ``` git
  sudo su -
+```
+``` git
  yum update -y
+```
+``` git
+ yum install httpd
 ```
 
 ![4](https://github.com/user-attachments/assets/ded460db-c244-4461-9c5b-5044b96c879d)
