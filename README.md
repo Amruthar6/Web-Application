@@ -46,4 +46,5 @@ Once the instances is running, click on connect aws CLI and run the command
 mkdir test
 ```
 
-![6](https://github.com/user-attachments/assets/2361de79-607f-4183-8ad4-2c1801e66ea1)
+
+![6](https://github.com/user-attachments/assets/375b9a82-088f-41e6-9b08-95a8af14a7b1)
