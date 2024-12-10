@@ -40,3 +40,10 @@ Once the instances is running, click on connect aws CLI and run the command
   systemctl status httpd
 ```
 ![14](https://github.com/user-attachments/assets/48300c92-2f3d-4444-b56a-3636f4ab6ad8)
+
+# step 5 : Create directory 
+``` git
+mkdir test
+```
+
+![6](https://github.com/user-attachments/assets/2361de79-607f-4183-8ad4-2c1801e66ea1)
