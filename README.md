@@ -65,7 +65,7 @@ unzip main.zip
 
 ![8](https://github.com/user-attachments/assets/2d8c41ee-5514-46ce-a31a-4659f6208049)
 
-# step 8 : Check http status again if not started run the enable command
+# step 8 : Check httpd status again if not started run the enable command
 ``` git 
 systemctl status httpd
 ```
