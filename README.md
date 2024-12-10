@@ -46,5 +46,41 @@ Once the instances is running, click on connect aws CLI and run the command
 mkdir test
 ```
 
-
 ![6](https://github.com/user-attachments/assets/375b9a82-088f-41e6-9b08-95a8af14a7b1)
+
+# step 6 : Clone the Application code from Github
+``` git
+wget https://github.com/Amruthar6/Web-Application/archive/refs/heads/main.zip
+```
+
+![7](https://github.com/user-attachments/assets/60157923-6985-4988-bb7b-1ed77938d69b)
+
+# step 7 : Unzip the main zip file
+``` git
+unzip main.zip
+```
+``` git
+ ls -l
+```
+
+![8](https://github.com/user-attachments/assets/2d8c41ee-5514-46ce-a31a-4659f6208049)
+
+# step 8 : Check http status again if not started run the enable command
+``` git 
+systemctl status httpd
+```
+``` git
+systemctl enable httpd
+```
+
+![9](https://github.com/user-attachments/assets/df1943f6-a226-421a-9048-d41f12395abb)
+
+# step 9 : Run the application using Public Ip  
+e.g.
+http://3.83.129.16/
+
+![10](https://github.com/user-attachments/assets/ec4a0460-0d58-4677-ab95-142788b7a6b5)
+![11](https://github.com/user-attachments/assets/38839e11-ca5d-4c81-a66f-273871d46805)
+![12](https://github.com/user-attachments/assets/e379c51a-d1ee-4297-a242-9fbed3c61257)
+![13](https://github.com/user-attachments/assets/79ea34a9-410c-4cec-87d5-d2f8f87b4c7d)
+ 
