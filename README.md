@@ -1,4 +1,4 @@
-**# - Deploy a Simple Web Application**
+# - Deploy a Simple Web Application
 
 In this guide I will show you how to deploy a web  application using AWS cloud step by step. Let's get started !
 
