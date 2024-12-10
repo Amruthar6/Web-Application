@@ -34,3 +34,9 @@ Once the instances is running, click on connect aws CLI and run the command
 ```
 
 ![5](https://github.com/user-attachments/assets/b37f8973-e0ed-46a3-b9d6-e964476019bb)
+
+# step 4 : Check status of httpd
+``` git
+  systemctl status httpd
+```
+![14](https://github.com/user-attachments/assets/48300c92-2f3d-4444-b56a-3636f4ab6ad8)
