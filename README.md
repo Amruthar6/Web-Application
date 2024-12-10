@@ -25,8 +25,12 @@ Once the instances is running, click on connect aws CLI and run the command
 ``` git
  yum update -y
 ```
+
+![4](https://github.com/user-attachments/assets/ded460db-c244-4461-9c5b-5044b96c879d)
+
+# step 3 : Install httpd
 ``` git
  yum install httpd
 ```
 
-![4](https://github.com/user-attachments/assets/ded460db-c244-4461-9c5b-5044b96c879d)
+![5](https://github.com/user-attachments/assets/b37f8973-e0ed-46a3-b9d6-e964476019bb)
