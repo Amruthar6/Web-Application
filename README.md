@@ -15,3 +15,10 @@ In this guide I will show you how to deploy a web  application using AWS cloud s
 ![2](https://github.com/user-attachments/assets/819d73a6-0377-4293-804e-a47991bdce3b)
 
 ![3](https://github.com/user-attachments/assets/5a5361b0-bb76-4099-8ca4-ac5e710e1057)
+
+# step 2 : SSH into Instance
+
+Once the instances is running, click on connect aws CLI and run the command
+` ` ` bash
+ sudo su -
+` ` `
