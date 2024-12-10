@@ -84,5 +84,4 @@ http://3.83.129.16/
 ![12](https://github.com/user-attachments/assets/e379c51a-d1ee-4297-a242-9fbed3c61257)
 ![13](https://github.com/user-attachments/assets/79ea34a9-410c-4cec-87d5-d2f8f87b4c7d)
 
-![photo-collage png (1)](https://github.com/user-attachments/assets/f119db44-4902-48d1-a10e-05ab7f36039a)
- 
+
